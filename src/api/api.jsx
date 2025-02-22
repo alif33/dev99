@@ -1,6 +1,6 @@
 import axios from "axios";
 
-axios.defaults.baseURL = "/";
+axios.defaults.baseURL = "https://devbackend-bice.vercel.app/";
 
 export default class API {
   //detail
